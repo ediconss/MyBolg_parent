@@ -19,8 +19,8 @@ jwt:
      ttl: 3600000
 admin:
   config:
-    username: sunkang
-    password: sun022945
+    username: 
+    password: 
     id: 15213783275
 freemarker:
   config: 
