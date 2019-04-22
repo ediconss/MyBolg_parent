@@ -1,0 +1,28 @@
+server: 
+  port: 9001
+
+spring: 
+  
+  application:  
+    name: MyBolg-bolg #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/db_bolg?useUnicode=true&amp;characterEncoding=UTF8
+    username: root
+    password: sun022945
+  jpa: 
+    database: mysql
+    show-sql: true
+jwt:
+  config:
+     key: sunkang
+     ttl: 3600000
+admin:
+  config:
+    username: sunkang
+    password: sun022945
+    id: 15213783275
+freemarker:
+  config: 
+    templateDiar: ./MyBolg_bolg/src/main/resources
+    templateFile: d:\\

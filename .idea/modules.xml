@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyBolg_bolg/MyBolg_bolg.iml" filepath="$PROJECT_DIR$/MyBolg_bolg/MyBolg_bolg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBolg_common/MyBolg_common.iml" filepath="$PROJECT_DIR$/MyBolg_common/MyBolg_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBolg_parent.iml" filepath="$PROJECT_DIR$/MyBolg_parent.iml" />
+    </modules>
+  </component>
+</project>
